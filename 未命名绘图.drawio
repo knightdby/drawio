@@ -1,9 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T06:44:43.586Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="U0eAxQc35_PBuWWkOyjx" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T06:46:14.733Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XxmlxCOJze8zYr8fo5NZ" version="21.6.8" type="github">
   <diagram name="第 1 页" id="cI7BXQ_lg42edpII7HGz">
-    <mxGraphModel dx="1026" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-2" value="数据采集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-3" value="数据挖掘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-4" value="数据标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-5" value="模型训练" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-6" value="模型测试验证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-7" value="模型部署" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="810" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-8" value="算法库建设" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="410" y="433" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-9" value="场景挖掘" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="160" y="303" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-10" value="基于主动学习的数据选择" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="280" y="225.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-11" value="半自动数据标注" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="280" y="359" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-12" value="增量学习" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="410" y="285" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-13" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="40" y="305" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-14" value="数据传输" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="40" y="210" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-15" value="数据入库" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="40" y="257" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-16" value="模型调优" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="410" y="200" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-17" value="场景库建设" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="160" y="350" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-18" value="实车测试" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="648" y="324" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-19" value="基于大模型的&lt;br /&gt;模型蒸馏" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="410" y="320" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-20" value="模型训练" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="435" y="262.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-21" value="基于大模型的&lt;br /&gt;自动标注" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="280" y="289" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-22" value="影子模式" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="-110" y="231" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-23" value="周期性采集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-24" value="针对Corner Case数据的自动触发采集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="-110" y="345" width="110" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-25" value="基于场景库的&lt;br /&gt;自动触发采集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="-110" y="431" width="110" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-26" value="针对OOD数据的自动触发采集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="-110" y="388" width="110" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-27" value="针对特殊场景的&lt;br /&gt;手动触发采集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="-110" y="474" width="110" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-28" value="基于影子模式的实车测试" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="648" y="276" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-29" value="数据管理平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="550" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-30" value="数据标注平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="593" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-31" value="模型训练平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510" y="550" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-32" value="基于场景库的&lt;br /&gt;模型评估" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="540" y="246" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-33" value="数据采集平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="633" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-34" value="针对量产车和采集车的车辆改装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="-110" y="570" width="110" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-35" value="OTA版本升级" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="800" y="311" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-36" value="数据解析、&lt;br&gt;质检、清洗" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fillColor=#0000CC;fontColor=#FFFFFF;strokeColor=#007FFF;align=center;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="160" y="191" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-37" value="数据质量运营" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="100" y="487" width="110" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-38" value="模型剪枝" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="800" y="229" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-39" value="模型量化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="800" y="264" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-40" value="时间同步、抽帧处理、融合拼接" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="160" y="255" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-41" value="针对性采集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="316.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-42" value="部署优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="827" y="205.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-43" value="基于多模态数据融合的联合标注" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="280" y="324" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-44" value="自动质检" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="280" y="447" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-45" value="人工质检" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="280" y="482" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-46" value="模型评价指标" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="540" y="195" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zqjXzldCZVvYTSzeTI0i-47" value="仿真测试" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="648" y="219" width="90" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
